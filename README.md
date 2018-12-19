@@ -11,6 +11,7 @@ In this repository, I will upload some projects I have been working on. These in
 8. K-means
 9. Evaluation
 10. Linear discriminant analysis
+11. Quadratic discriminant analysis
 
 Sources: my sources are mainly my notes from Andrew Ng's course and The Elements of Statistical learning by Hastie et al.
 
