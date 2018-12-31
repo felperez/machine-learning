@@ -1,5 +1,6 @@
-# machine-learning
-In this repository, I will upload some projects I have been working on. These include the building algorithms from scratch, as well as some applications of these. The suggested order of the notebooks is
+Machine learning for the working mathematician
+
+In this repository, I will upload some projects I have been working on. These include the building algorithms from scratch, as well as some applications of these. These notebooks follow the perspective of a theoretical mathematician, so they provide details of the algorithms which are normally skipped. The suggested order of the notebooks is
 
 1. Linear regression
 2. Multiple and polynomial regression
