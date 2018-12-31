@@ -12,6 +12,8 @@ In this repository, I will upload some projects I have been working on. These in
 9. Evaluation
 10. Linear discriminant analysis
 11. Quadratic discriminant analysis
+12. Naive Bayes
+13. Support vector machines, part 1
 
 Most of the examples are done using basic datasets in order to illustrate each concept.
 
