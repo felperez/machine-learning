@@ -3,7 +3,7 @@
 
 In this repository, I will upload some projects I have been working on. These include the building algorithms from scratch, as well as some applications of these. These notebooks follow the perspective of a theoretical mathematician, so they provide details of the algorithms which are normally skipped. The suggested order of the notebooks is
 
-![Clustering](https://lh5.googleusercontent.com/GYEywVtAg_VDMrICm0cf7uGzpMHhmPxB1h0oDZhcsn2ckpzGP6Mwq9nl0HO5CBD3W2DWBbzJk47-y27RWXNMCobRM9Gvq2T642LhCWW5VsPY4UB2yko=w371?raw=true "Clustering")
+![Alt text](https://lh5.googleusercontent.com/GYEywVtAg_VDMrICm0cf7uGzpMHhmPxB1h0oDZhcsn2ckpzGP6Mwq9nl0HO5CBD3W2DWBbzJk47-y27RWXNMCobRM9Gvq2T642LhCWW5VsPY4UB2yko=w371?raw=true "Clustering")
 
 1. Linear regression
 2. Multiple and polynomial regression
